@@ -7,6 +7,11 @@ function App() {
       <h1>Faustino Joao Mahumane</h1>
       <h2>primeiro deploy da aplicacao react</h2>
       <h3>hello mundo react js and hooks</h3>
+      <h3>hello mundo react js and hooks</h3>
+      <h3>hello mundo react js and hooks</h3>
+      <h3>hello mundo react js and hooks</h3>
+      <h3>hello mundo react js and hooks</h3>
+      <h3>hello mundo react js and hooks</h3>
     </div>
   );
 }
